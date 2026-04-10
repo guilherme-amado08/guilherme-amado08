@@ -8,7 +8,7 @@ Acabei de concluir a minha formação (2023—2026) no **Agrupamento de Escolas 
 
 ### 🚀 Projeto em Destaque (PAP)
 **[Website Agrupamento 603 - Antanhol](https://603.escutismo.pt)**
-Reconstrução completa do portal institucional para a minha Prova de Aptidão Profissional.
+Reconstrução completa do website institucional para a minha Prova de Aptidão Profissional.
 - **Backend:** Gestão dinâmica de conteúdos com PHP e MySQL.
 - **Frontend:** Interface moderna, responsiva e focada na experiência do utilizador (UX).
 - **Foco:** Otimização de carregamento e organização de eventos/notícias.
@@ -32,5 +32,4 @@ Reconstrução completa do portal institucional para a minha Prova de Aptidão P
 ---
 
 ### 📫 Vamos conversar?
-- **Projeto Atual:** [603.escutismo.pt](https://escutismo.pt)
 - **LinkedIn:** [(https://www.linkedin.com/in/guilherme-amado-0a5233400/)]
