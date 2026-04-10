@@ -1,4 +1,4 @@
-# Olá, eu sou o Guilherme Amado! 👋
+# Olá, sou o Guilherme Amado! 👋
 
 **Desenvolvedor Web | Técnico de Gestão e Programação de Sistemas Informáticos**
 
