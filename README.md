@@ -2,12 +2,12 @@
 
 **Desenvolvedor Web | Técnico de Gestão e Programação de Sistemas Informáticos**
 
-Acabei de concluir a minha formação (2023 - 2026) no **Agrupamento de Escolas Coimbra Oeste**, onde desenvolvi uma paixão por criar interfaces funcionais, rápidas e intuitivas.
+Acabei de concluir a minha formação (2023 - 2026) no **Agrupamento de Escolas Coimbra Oeste**, com uma média final de 15 valores, onde desenvolvi uma paixão por criar interfaces funcionais, rápidas e intuitivas.
 
 ---
 
 ### 🚀 Projeto em Destaque (PAP)
-**[Website Agrupamento 603 - Antanhol](https://603.escutismo.pt)** - Reconstrução completa do website institucional para a minha Prova de Aptidão Profissional.
+**[Website Agrupamento 603 - Antanhol](https://603.escutismo.pt)** - Reconstrução completa do website institucional no âmbito da minha Prova de Aptidão Profissional. Projeto concluído com a classificação máxima de 20 valores.
 - **Backend:** Gestão dinâmica de conteúdos com PHP e MySQL.
 - **Frontend:** Interface moderna, responsiva e focada na experiência do utilizador (UX).
 - **Foco:** Otimização de carregamento e organização de eventos/notícias.
