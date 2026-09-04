@@ -12,7 +12,7 @@ Acabei de concluir a minha formação (2023 - 2026) no **Agrupamento de Escolas 
 - **Frontend:** Interface moderna, responsiva e focada na experiência do utilizador (UX).
 - **Foco:** Otimização de carregamento e organização de eventos/notícias.
 
-- Booking AECO - Criação de um sistema web de raiz para a gestão e reserva de espaços no Agrupamento de Escolas Coimbra Oeste.
+**[Booking AECO](https://booking.aecoimbraoeste.pt/)** - Criação de um sistema web de raiz para a gestão e reserva de espaços no Agrupamento de Escolas Coimbra Oeste.
 
 ---
 
