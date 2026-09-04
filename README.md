@@ -7,13 +7,13 @@ Acabei de concluir a minha formação (2023 - 2026) no **Agrupamento de Escolas 
 ---
 ### ⌨️ Projetos Desenvolvidos
 
-**🚀 Projeto em Destaque (PAP) | 20 Valores**
 **[Website Agrupamento 603 - Antanhol](https://603.escutismo.pt)** - Reconstrução completa do website institucional no âmbito da minha Prova de Aptidão Profissional. Projeto concluído com a classificação máxima de 20 valores.
 - **Backend:** Gestão dinâmica de conteúdos com PHP e MySQL.
 - **Frontend:** Interface moderna, responsiva e focada na experiência do utilizador (UX).
 - **Foco:** Otimização de carregamento e organização de eventos/notícias.
 
 **[Booking AECO](https://booking.aecoimbraoeste.pt/)** - Criação de um sistema web de raiz para a gestão e reserva de espaços no Agrupamento de Escolas Coimbra Oeste.
+- **Backend:** Programação de toda a lógica de funcionamento, integrando sistemas de login seguros e controlo de conflitos de sessões.
 
 ---
 
