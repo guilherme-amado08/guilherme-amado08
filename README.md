@@ -35,8 +35,7 @@ Acabei de concluir a minha formação (2023 - 2026) no **Agrupamento de Escolas 
 ---
 
 ### 🎓 Percurso Académico
-- **Curso Profissional de GPSI** @ AECO (2023 — 2026)
-- Especialização em desenvolvimento de software, bases de dados e sistemas informáticos.
+- **Curso Profissional de Gestão e Programação de Sistemas Informáticos (GPSI)** | Agrupamento de Escolas Coimbra Oeste (AECO) (2023 — 2026)
 
 ---
 
