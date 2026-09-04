@@ -14,6 +14,13 @@ Acabei de concluir a minha formação (2023 - 2026) no **Agrupamento de Escolas 
 
 **[Booking AECO](https://booking.aecoimbraoeste.pt/)** - Criação de um sistema web de raiz para a gestão e reserva de espaços no Agrupamento de Escolas Coimbra Oeste.
 - **Backend:** Programação de toda a lógica de funcionamento, integrando sistemas de login seguros e controlo de conflitos de sessões.
+- **Frontend:** Desenvolvimento de calendários interativos nativos (JavaScript) e interfaces intuitivas para utilizadores e administradores.
+- **Foco:** Automatização de reservas com bloqueios de 24 horas de antecedência e otimização da gestão diária de salas escolares.
+
+**[Loja Online SMCandleWithLove](https://smcandlewithlove.com/)** - Codificação front-end e estruturação da interface visual da loja online.
+- **Plataforma:** Integração de código customizado e adaptação do design gráfico para o ecossistema e templates da Shopify.
+- **Frontend:** Interface atrativa, totalmente responsiva (mobile e desktop) e focada na experiência do utilizador (UI/UX).
+- **Foco:** Otimização dos tempos de carregamento da interface e estruturação de uma jornada de compra fluida.
 
 ---
 
