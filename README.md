@@ -6,7 +6,7 @@ Acabei de concluir a minha formação (2023 - 2026) no **Agrupamento de Escolas 
 
 ---
 
-### 🚀 Projeto em Destaque (PAP)
+### 🚀 Projeto em Destaque (PAP) | 20 Valores
 **[Website Agrupamento 603 - Antanhol](https://603.escutismo.pt)** - Reconstrução completa do website institucional no âmbito da minha Prova de Aptidão Profissional. Projeto concluído com a classificação máxima de 20 valores.
 - **Backend:** Gestão dinâmica de conteúdos com PHP e MySQL.
 - **Frontend:** Interface moderna, responsiva e focada na experiência do utilizador (UX).
