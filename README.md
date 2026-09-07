@@ -1,6 +1,6 @@
 # Olá, sou o Guilherme Amado! 👋
 
-**Desenvolvedor Web | Técnico de Gestão e Programação de Sistemas Informáticos**
+**Desenvolvedor Junior Full Stack (Foco em Frontend) | Técnico de Gestão e Programação de Sistemas Informáticos**
 
 Acabei de concluir a minha formação (2023 - 2026) no **Agrupamento de Escolas Coimbra Oeste**, com uma média final de 15 valores, onde desenvolvi uma paixão por criar interfaces funcionais, rápidas e intuitivas.
 
