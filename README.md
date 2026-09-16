@@ -40,5 +40,5 @@ Acabei de concluir a minha formação (2023 - 2026) no **Agrupamento de Escolas 
 ---
 
 ### 📫 Vamos conversar?
-- **LinkedIn:** (https://guilhermeamado.dev)
+- **Website:** (https://guilhermeamado.dev)
 - **Localização:** Coimbra, Portugal
