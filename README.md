@@ -7,12 +7,17 @@ Acabei de concluir a minha formação (2023 - 2026) no **Agrupamento de Escolas 
 ---
 ### ⌨️ Projetos Desenvolvidos
 
-**[Website Agrupamento 603 - Antanhol](https://603.escutismo.pt)** - Reconstrução completa do website institucional no âmbito da minha Prova de Aptidão Profissional (PAP). Projeto concluído com a classificação máxima de 20 valores.
+**[Website José Daniel Amado](https://josedanielamado.com/)** - Desenvolvimento full-stack de uma plataforma imobiliária premium e sistema de gestão de propriedades à medida.
+- **Backend:** Conversão de código estático para um tema customizado de WordPress com PHP, estruturando um back-office dedicado à gestão autónoma de imóveis sem o uso de page builders.
+- **Frontend:** Codificação de raiz em HTML, CSS e JavaScript, criando uma interface de estilo editorial, totalmente responsiva e com animações dinâmicas.
+- **Foco:** Elevada performance técnica, design como montra digital de luxo e otimização da jornada do utilizador desde a pesquisa de imóveis até ao contacto.
+
+**[Website Agrupamento 603 - Antanhol](https://603.escutismo.pt/)** - Reconstrução completa do website institucional no âmbito da minha Prova de Aptidão Profissional (PAP). Projeto concluído com a classificação máxima de 20 valores.
 - **Backend:** Gestão dinâmica de conteúdos com PHP e MySQL.
 - **Frontend:** Interface moderna, responsiva e focada na experiência do utilizador (UX).
 - **Foco:** Otimização de carregamento e organização de eventos/notícias.
 
-**[Booking AECO](https://booking.aecoimbraoeste.pt/)** - Criação de um sistema web de raiz para a gestão e reserva de espaços no Agrupamento de Escolas Coimbra Oeste.
+**[Website Booking AECO](https://booking.aecoimbraoeste.pt/)** - Criação de um sistema web de raiz para a gestão e reserva de espaços no Agrupamento de Escolas Coimbra Oeste.
 - **Backend:** Programação de toda a lógica de funcionamento, integrando sistemas de login seguros e controlo de conflitos de sessões.
 - **Frontend:** Desenvolvimento de calendários interativos nativos (JavaScript) e interfaces intuitivas para utilizadores e administradores.
 - **Foco:** Automatização de reservas com bloqueios de 24 horas de antecedência e otimização da gestão diária de salas escolares.
