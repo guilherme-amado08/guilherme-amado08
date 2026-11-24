@@ -34,6 +34,18 @@ Developed as my Professional Aptitude Project (PAP), awarded the maximum grade o
 
 `HTML` `CSS` `JavaScript` `PHP` `MySQL`
 
+### [VIPSOUSS](https://vipsouss.com/)
+
+Custom digital experience for a streetwear brand, combining minimalism, visual storytelling and creative development.
+
+- Minimalist interface with a strong monochromatic visual identity.
+- Interactive image gallery with swipe navigation and lightbox functionality.
+- Fully responsive layout across desktop and mobile devices.
+- Lightweight development focused on performance and visual consistency.
+- Custom implementation without unnecessary frameworks or dependencies.
+
+`HTML` `CSS` `JavaScript`
+
 ### [Booking AECO](https://booking.aecoimbraoeste.pt/)
 
 Custom web application for managing and booking school facilities.
