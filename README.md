@@ -99,5 +99,6 @@ Agrupamento de Escolas Coimbra Oeste
 
 Interested in collaborations, new projects and professional opportunities.
 
-**Portfolio:** [guilhermeamado.dev](https://guilhermeamado.dev)  
+**Portfolio:** [guilhermeamado.dev](https://guilhermeamado.dev)
+**Email:** work@guilhermeamado.dev 
 **Location:** Coimbra, Portugal
