@@ -90,7 +90,7 @@ Custom Shopify e-commerce experience focused on visual identity, usability and p
 Agrupamento de Escolas Coimbra Oeste (AECO)  
 2023 - 2026
 
-- Final grade: 15/20
+- Final average: 15/20
 - Professional Aptitude Project: 20/20
 
 ---
