@@ -26,7 +26,7 @@ Premium real estate website with a custom property management system.
 
 `HTML` `CSS` `JavaScript` `PHP` `WordPress`
 
-### [Agrupamento 603 — Antanhol](https://603.escutismo.pt/)
+### [Agrupamento 603 - Antanhol](https://603.escutismo.pt/)
 
 Complete redevelopment of an institutional website, featuring a custom content management system.
 
