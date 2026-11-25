@@ -87,7 +87,7 @@ Custom Shopify e-commerce experience focused on visual identity, usability and p
 
 **Computer Systems Management and Programming**
 
-Agrupamento de Escolas Coimbra Oeste  
+Agrupamento de Escolas Coimbra Oeste (AECO)  
 2023 - 2026
 
 - Final grade: 15/20
