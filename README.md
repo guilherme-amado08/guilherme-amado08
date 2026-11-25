@@ -9,7 +9,7 @@ My work focuses on creating modern, responsive and intuitive websites, e-commerc
 
 Based in Coimbra, Portugal.
 
-[Portfolio — guilhermeamado.dev](https://guilhermeamado.dev)
+[Portfolio - guilhermeamado.dev](https://guilhermeamado.dev)
 
 ---
 
